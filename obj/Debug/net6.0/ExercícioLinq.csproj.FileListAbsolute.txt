@@ -1,0 +1,15 @@
+C:\Users\gui_f\source\repos\ExercícioLinq\bin\Debug\net6.0\ExercícioLinq.exe
+C:\Users\gui_f\source\repos\ExercícioLinq\bin\Debug\net6.0\ExercícioLinq.deps.json
+C:\Users\gui_f\source\repos\ExercícioLinq\bin\Debug\net6.0\ExercícioLinq.runtimeconfig.json
+C:\Users\gui_f\source\repos\ExercícioLinq\bin\Debug\net6.0\ExercícioLinq.dll
+C:\Users\gui_f\source\repos\ExercícioLinq\bin\Debug\net6.0\ExercícioLinq.pdb
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.csproj.AssemblyReference.cache
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.AssemblyInfoInputs.cache
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.AssemblyInfo.cs
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.csproj.CoreCompileInputs.cache
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.dll
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\refint\ExercícioLinq.dll
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.pdb
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ExercícioLinq.genruntimeconfig.cache
+C:\Users\gui_f\source\repos\ExercícioLinq\obj\Debug\net6.0\ref\ExercícioLinq.dll
